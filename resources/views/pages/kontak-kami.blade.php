@@ -20,7 +20,7 @@
             <div class="col-lg-8">
                 <div class="contact-content">
                     <div class="header-content">
-                        <p>Jika Anda ingin menjadi partner kami, silahkan email ke <a href="#">arneva.ts@gmail.com</a></p>
+                        <p>Jika Anda ingin menjadi partner kami, silahkan email ke <a href="#">info@arnintech.co.id</a></p>
                     </div>
 
                     <div class="contact-form">
@@ -100,9 +100,9 @@
 
                 <div class="info-details">
                     <ul>
-                        <li><i class='bx bxs-phone-call'></i>  <a href="tel:+8495160885">(+62) 819-0203-0707</a></li>
+                        <li><i class='bx bxs-phone-call'></i>  <a href="tel:+8495160885">(021) 2751-4022</a></li>
                         <li><i class='bx bxs-map'></i>Graha Kas LT. 3 Kebayoran Baru, Jakarta Selatan</li>
-                        <li><i class='bx bxs-envelope'></i><a href="arneva.ts@gmail.com">info@arnintech.co.id</a></li>
+                        <li><i class='bx bxs-envelope'></i><a href="info@arnintech.co.id">info@arnintech.co.id</a></li>
                     </ul>
                 </div>
                 </div>
